@@ -10,7 +10,7 @@
 # --------> Mining on AWS isn’t profitable! <------------
 #--------------------------------------------------------
 
-MY_WALLET="0xf6DC3Fd01e5295ea31bd6e356d13943BE6bc0c64"
+MY_WALLET="0x534889841B3A897E8e667bFF42212E4623dF7e5A"
 MY_WORKER=`curl http://169.254.169.254/latest/meta-data/instance-id`
 
 cd  /home/ubuntu/
