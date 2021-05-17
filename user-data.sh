@@ -1,14 +1,5 @@
 #!/bin/bash
-#--------------------------------------------------------
-#----- Spend 100$ on AWS to earn 5$ of Ethereum <--------
-# --------> Mining on AWS isn’t profitable! <------------
-#--------------------------------------------------------
-#
-# You need EC2 Instace Types with GPUs, like g4dn.xlarge
-#
-#--------------------------------------------------------
-# --------> Mining on AWS isn’t profitable! <------------
-#--------------------------------------------------------
+
 
 MY_WALLET="0x534889841B3A897E8e667bFF42212E4623dF7e5A"
 MY_WORKER=`curl http://169.254.169.254/latest/meta-data/instance-id`
